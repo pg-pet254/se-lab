@@ -1,4 +1,5 @@
 ![Maven Build](https://github.com/pg-pet254/se-lab/actions/workflows/maven.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
