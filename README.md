@@ -7,7 +7,7 @@ This is a sample application for the [Software Engineering](http://www.mit.bme.h
 The application is simplified and deliberately contains bugs.
 
 ## Getting started
-
+ 
 - The project is implemented in Java 21.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
